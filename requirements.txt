@@ -1,0 +1,7 @@
+numpy
+pytorch
+gpytorch
+tqdm
+scipy
+pandas
+uproot
